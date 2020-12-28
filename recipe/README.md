@@ -1,3 +1,9 @@
+## Please use your own API passwords to open the application.
+
+## The API can sometimes cause errors. The API containing the same information is available at the link below.
+
+# https://rapidapi.com/marketplace
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
